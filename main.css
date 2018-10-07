@@ -1,12 +1,17 @@
 #N_1{
 	color:blue;
+	font-style:italic;
 }
 #N_2{
 	color:red;
 }
 #N_3{
 	color:green;
+	font-style:italic;
+	font-size:100px;
 }
 #N_4{
 	color:white;
+	font-size:111px;
+
 	}
