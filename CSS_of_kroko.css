@@ -1,0 +1,17 @@
+.h1{
+	font-family:"Comic Sans MS";
+	font-style:italic;
+	font-size:100px;
+}
+.kroko{
+	color:blue;
+	font-size:45px;
+}
+.price{
+	font-style:italic;
+	color:red;
+	font-size:50px;
+}
+.image{
+	width:100px;
+}
